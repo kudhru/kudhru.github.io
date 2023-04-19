@@ -6,7 +6,7 @@ subtitle: <b>Faculty</b> @ <a href="https://iiitd.ac.in/">IIIT Delhi</a> &#x2022
 
 profile:
   align: right
-  image: prof_pic_1.JPG
+  image: prof_pic_cropped.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>A-506, R & D Block</p>
