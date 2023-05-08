@@ -144,6 +144,9 @@
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
+          {%- if entry.award %}
+            <a href="{{ entry.award }}" class="btn btn-sm z-depth-0" role="button" style="color:#FF0000;">Best Paper Award</a>
+          {%- endif %}
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %}
