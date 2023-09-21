@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-09-20 12:00:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Preprint released for <a href="https://arxiv.org/abs/2309.10694">"Student and Instructor Perspectives on the influence of LLMs on Undergraduate Engineering Education"</a>.

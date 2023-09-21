@@ -13,8 +13,8 @@ profile:
     <p>IIIT Delhi</p>
     <p>New Delhi-110019</p>
 
-news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -24,7 +24,7 @@ I am currently an assistant professor at IIIT, Delhi. In the Past, I was a Post-
 
 I consider myself a scientist before a computer scientist. Hence, I am interested in solving real life problems even if they are simple and/or not strictly related to computer science. I am particularly interested in solving problems which are specific to developing countries such as India.  
 
-As part of computer science research, I am interested in Distributed Systems and its application in Data Analytics and Machine Learning.
+As part of computer science research, I am primarily interested in Human-Computer Interaction. In the past, I have also worked on Distributed Systems, Data Analytics and Machine Learning.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
