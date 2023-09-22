@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>Faculty</b> @ <a href="https://iiitd.ac.in/">IIIT Delhi</a> &#x2022; <b>Post-Doc</b> from <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> &#x2022; <b>PhD</b> from <a href="https://cse.umn.edu/cs">UMN Twin Cities</a>
 
