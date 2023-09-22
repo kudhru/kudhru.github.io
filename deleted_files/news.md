@@ -1,13 +1,13 @@
----
+<!-- ---
 layout: page
 permalink: /news/
 title: News
 description:
 nav: true
 nav_order: 3
----
+--- -->
           
-<div class="news">
+<!-- <div class="news">
 {% if site.news != blank -%} 
 {%- assign news_size = site.news | size -%}
 <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
@@ -35,5 +35,5 @@ nav_order: 3
 {%- else -%} 
 <p>No news so far...</p>
 {%- endif %} 
-</div>
+</div> -->
 
