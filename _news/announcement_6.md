@@ -10,8 +10,8 @@ Four senior year UG students from my research group have been selected for <a hr
 
 #### Student Names
 <ul>
-    <li>Bhagesh Gaur (2020)</li>
-    <li>Madhava Krishna (2020)</li>
-    <li>Ayush Sharma (2020)</li>
-    <li>Mohammad Sufyan Azam (2020)</li>
+    <li>Bhagesh Gaur (2020 Batch)</li>
+    <li>Madhava Krishna (2020 Batch)</li>
+    <li>Ayush Sharma (2020 Batch)</li>
+    <li>Mohammad Sufyan Azam (2020 Batch)</li>
 </ul>

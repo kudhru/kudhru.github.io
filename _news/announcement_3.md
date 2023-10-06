@@ -10,8 +10,8 @@ Four UG student teams from my lab received the <b>IIITD-SURF 2023 Award</b> for 
 
 #### Teams Details
 <ul>
-    <li>Ishika Joshi (2019) and Ritvik Budhiraja (2019)</li>
-    <li>Priyash Shah (2021)</li>
-    <li>Aditya Girdhar (2021) and Akanksha Singal (2021)</li>
-    <li>Raunak Thakur (2021) and Amil Bhagat (2021)</li>
+    <li>Ishika Joshi (2019 Batch) and Ritvik Budhiraja (2019 Batch)</li>
+    <li>Priyash Shah (2021 Batch)</li>
+    <li>Aditya Girdhar (2021 Batch) and Akanksha Singal (2021 Batch)</li>
+    <li>Raunak Thakur (2021 Batch) and Amil Bhagat (2021 Batch)</li>
 </ul>

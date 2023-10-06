@@ -10,9 +10,9 @@ Five senior year UG students from my research group have been selected for <a hr
 
 #### Student Names
 <ul>
-    <li>Bhagesh Gaur (2020)</li>
-    <li>Madhava Krishna (2020)</li>
-    <li>Aryaman Raina (2020)</li>
-    <li>Prateek Mishra (2020)</li>
-    <li>Harshit Goyal (2020)</li>
+    <li>Bhagesh Gaur (2020 Batch)</li>
+    <li>Madhava Krishna (2020 Batch)</li>
+    <li>Aryaman Raina (2020 Batch)</li>
+    <li>Prateek Mishra (2020 Batch)</li>
+    <li>Harshit Goyal (2020 Batch)</li>
 </ul>
