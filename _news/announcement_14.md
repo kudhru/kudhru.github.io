@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-19 12:00:00-0400
+date: 2024-04-19 12:00:00-0400
 inline: true
 ---
 
-Preprint released for our paper titled <a href="https://arxiv.org/abs/2401.09937">"From Cash to Cashless: UPI's Impact on Spending Behavior among Indian Users"</a>
+Our paper titled <a href="https://arxiv.org/abs/2401.09937">"From Cash to Cashless: UPI's Impact on Spending Behavior among Indian Users"</a> accepted in <a href="https://chi2024.acm.org/for-authors/late-breaking-work/">ACM CHI 2024 - Late Breaking Work Track</a>.
