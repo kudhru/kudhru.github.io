@@ -7,7 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-Our research has been covered by several newspapers and media outlets in the past.
+Our research on [UPI's impact on spending behvaiour among Indian Users](https://dl.acm.org/doi/10.1145/3613905.3651050) has been covered by several 
+newspapers and media outlets in the past.
 
 ## Videos
 
@@ -37,17 +38,25 @@ Our research has been covered by several newspapers and media outlets in the pas
 13. [Prabhat Khabar](https://www.prabhatkhabar.com/ampstories/upi-payments-leading-people-to-overspending-rjv)
 14. [The Tatva](https://www.thetatva.in/india/the-upi-dilemma-some-people-overspend/39095/)
 15. [Startup Pedia](https://startuppedia.in/trending/shocking-new-iiit-delhi-survey-finds-upi-users-are-overspending-4545914)
-16. [Hi India](https://hiindia.com/upi-payments-see-surge-in-india-leading-people-to-overspending-too-experts/)
-17. [Pratidin Time](https://www.pratidintime.com/pratidin-exclusive/from-cash-to-cashless-upis-impact-on-spending-behavior-among-indian-users)
-18. [Andhra Friends](https://www.andhrafriends.com/topic/1023106-75-of-indians-are-overspending-because-of-upi-and-digital-payment-iiit-delhi-survey/)
+16. [Latestly](https://www.latestly.com/technology/upi-payments-surged-in-india-leading-people-to-overspend-on-costly-and-unnecessary-items-too-experts-5956826.html)
+17. [Hi India](https://hiindia.com/upi-payments-see-surge-in-india-leading-people-to-overspending-too-experts/)
+18. [Pratidin Time](https://www.pratidintime.com/pratidin-exclusive/from-cash-to-cashless-upis-impact-on-spending-behavior-among-indian-users)
+19. [Andhra Friends](https://www.andhrafriends.com/topic/1023106-75-of-indians-are-overspending-because-of-upi-and-digital-payment-iiit-delhi-survey/)
 
 ## Social Media
 
-1. [Twitter 1](https://twitter.com/IndianTechGuide/status/1787693843103502807)
-2. [Twitter 2](https://twitter.com/IndiaToday/status/1788542407551619504)
-3. [Instagram 1](https://www.instagram.com/p/C6oBoKkPNvX/?utm_source=ig_web_copy_link)
-4. [Instagram 2](https://www.instagram.com/indiatoday/p/C6k6sRetcBd/)
-5. [Instagram 3](https://www.instagram.com/reel/C6v1jEULxeT/)
-6. [Reddit](https://www.reddit.com/r/IndianStreetBets/comments/1clle7h/75_in_india_are_overspending_cause_of_upi_reports/)
+1. [Instagram 1](https://www.instagram.com/p/C6oBoKkPNvX/?utm_source=ig_web_copy_link)
+2. [Instagram 2](https://www.instagram.com/p/C6qLII7I8sC/)
+3. [Instagram 3](https://www.instagram.com/p/C6qAIA_r5fC/)
+4. [Instagram 4](https://www.instagram.com/indiatoday/p/C6k6sRetcBd/)
+5. [Instagram 5](https://www.instagram.com/reel/C6v1jEULxeT/)
+6. [Instagram 6](https://www.instagram.com/p/C6trCRARtcg/)
+7. [Instagram 7](https://www.instagram.com/p/C6rAS5JSg8G/)
+8. [LinkedIn 1](https://www.linkedin.com/pulse/upi-driving-us-towards-cashless-careless-economy-amit-mishra-5yudc?trk=public_post)
+9. [LinkedIn 2](https://www.linkedin.com/posts/iamnehanagar_75-of-indians-are-overspending-because-activity-7193827245881200640--r9l)
+10. [LinkedIn 3](https://www.linkedin.com/posts/anindya-ghosh-22490b24_the-upi-paradox-making-you-overspend-but-activity-7193157079015051264-OrVi)
+11. [Reddit](https://www.reddit.com/r/IndianStreetBets/comments/1clle7h/75_in_india_are_overspending_cause_of_upi_reports/)
+12. [Twitter 1](https://twitter.com/IndianTechGuide/status/1787693843103502807)
+13. [Twitter 2](https://twitter.com/IndiaToday/status/1788542407551619504)
  
 
