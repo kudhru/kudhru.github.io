@@ -15,11 +15,12 @@ newspapers and media outlets in the past.
 1. [Zee News](https://www.youtube.com/watch?v=qj4JbB4GRD4)
 2. [Aaj Tak](https://www.aajtak.in/business/utility/video/upi-making-users-to-overspend-while-some-helping-saving-iit-delhi-survey-reveals-1941206-2024-05-10)
 3. [NDTV India](https://www.youtube.com/watch?v=zUzGH9r_BwU)
-4. [Zee Business](https://www.youtube.com/watch?v=ZQJh0mvkg6A)
-5. [LallanTop](https://www.youtube.com/watch?v=zvvEH6Z4wTA&t=105s)
-6. [Zee 24 Kalak](https://www.pratidintime.com/pratidin-exclusive/from-cash-to-cashless-upis-impact-on-spending-behavior-among-indian-users)
-7. [Funny Take by a YouTuber](https://www.youtube.com/watch?v=reec6VuNHYQ)
-8. [The Karan Chronicles](https://www.youtube.com/watch?v=Cu0uAfm_lEI)
+4. [NDTV Profit](https://www.youtube.com/watch?v=VcfFPmTLkUM)
+5. [Zee Business](https://www.youtube.com/watch?v=ZQJh0mvkg6A)
+6. [LallanTop](https://www.youtube.com/watch?v=zvvEH6Z4wTA&t=105s)
+7. [Zee 24 Kalak](https://www.pratidintime.com/pratidin-exclusive/from-cash-to-cashless-upis-impact-on-spending-behavior-among-indian-users)
+8. [Funny Take by a YouTuber](https://www.youtube.com/watch?v=reec6VuNHYQ)
+9. [The Karan Chronicles](https://www.youtube.com/watch?v=Cu0uAfm_lEI)
 
 ## Articles
 
