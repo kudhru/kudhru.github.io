@@ -17,11 +17,11 @@ newspapers and media outlets in the past.
 3. [NDTV India](https://www.youtube.com/watch?v=zUzGH9r_BwU)
 4. [NDTV Profit](https://www.youtube.com/watch?v=VcfFPmTLkUM)
 5. [NDTV Profit Hindi](https://hindi.ndtvprofit.com/videos/personal-finance/upi-payment-addiction-spoiling-budget-of-people-shocking-revelations-in-research-study?src=p1)
-5. [Zee Business](https://www.youtube.com/watch?v=ZQJh0mvkg6A)
-6. [LallanTop](https://www.youtube.com/watch?v=zvvEH6Z4wTA&t=105s)
-7. [Zee 24 Kalak](https://www.pratidintime.com/pratidin-exclusive/from-cash-to-cashless-upis-impact-on-spending-behavior-among-indian-users)
-8. [Funny Take by a YouTuber](https://www.youtube.com/watch?v=reec6VuNHYQ)
-9. [The Karan Chronicles](https://www.youtube.com/watch?v=Cu0uAfm_lEI)
+6. [Zee Business](https://www.youtube.com/watch?v=ZQJh0mvkg6A)
+7. [LallanTop](https://www.youtube.com/watch?v=zvvEH6Z4wTA&t=105s)
+8. [Zee 24 Kalak](https://www.pratidintime.com/pratidin-exclusive/from-cash-to-cashless-upis-impact-on-spending-behavior-among-indian-users)
+9. [Funny Take by a YouTuber](https://www.youtube.com/watch?v=reec6VuNHYQ)
+10. [The Karan Chronicles](https://www.youtube.com/watch?v=Cu0uAfm_lEI)
 
 ## Articles
 
@@ -61,5 +61,14 @@ newspapers and media outlets in the past.
 11. [Reddit](https://www.reddit.com/r/IndianStreetBets/comments/1clle7h/75_in_india_are_overspending_cause_of_upi_reports/)
 12. [Twitter 1](https://twitter.com/IndianTechGuide/status/1787693843103502807)
 13. [Twitter 2](https://twitter.com/IndiaToday/status/1788542407551619504)
+14. [YouTube 1](https://www.youtube.com/shorts/KHjy6-ZxNcE)
+15. [YouTube 2](https://www.youtube.com/watch?v=_CkXKVx6qC8)
+16. [YouTube 3](https://www.youtube.com/shorts/guJyc1AsByw)
+17. [YouTube 4](https://www.youtube.com/shorts/Kjh0VHDpC9M)
+18. [YouTube 5](https://www.youtube.com/watch?v=IpfEOf9BBIE)
+19. [YouTube 6](https://www.youtube.com/shorts/RBajZ8nDoWk)
+20. [YouTube 7](https://www.youtube.com/watch?v=DuahD4Heu-g)
+21. [YouTube 8](https://youtu.be/wYzTrSnHS9A?t=83)
+22. [YouTube 9](https://www.youtube.com/shorts/uHu_9x6huDI)
  
 
