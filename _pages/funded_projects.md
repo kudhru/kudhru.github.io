@@ -7,7 +7,15 @@ nav: true
 nav_order: 3
 ---
 
-#### **iHub Anubhuti IIITD Foundation Grant** [2024 - Present]
+#### **IIE-WISE Qatar Foundation Grant** [2024 - 2025]
+**Project Title:** Impact of Generative AI on Higher Education in India
+**Funding Agency:** WISE x IIE Global Research Consortium  
+**Funding Amount:** <b class="super_emphasis">INR 30,00,000</b>  
+**Role:** Co-PI
+
+---
+
+#### **iHub Anubhuti IIITD Foundation Grant** [2024]
 **Project Title:** Predicting Breast Cancer subtype using MRI images  
 **Funding Agency:** iHub Anubhuti IIITD Foundation  
 **Funding Amount:** <b class="super_emphasis">INR 99,42,000</b>  
@@ -31,7 +39,7 @@ nav_order: 3
 
 ---
 
-#### **SERB Startup Research Grant** [2023 - Present]
+#### **SERB Startup Research Grant** [2023]
 **Project Title:** Alleviating the shortage of GPUs using smart usage of CPUs for
 machine learning training  
 **Funding Agency:** DST-SERB, India  
@@ -40,7 +48,7 @@ machine learning training
 
 ---
 
-#### **Initiation Research Grant** [2022 - Present]
+#### **Initiation Research Grant** [2022]
 **Project Title:** Prediction of Breast Cancer Subtype using MRI images  
 **Funding Agency:** IIIT Delhi  
 **Funding Amount:** <b class="super_emphasis">INR 10,00,000</b>  
