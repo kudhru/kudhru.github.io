@@ -13,7 +13,7 @@ profile:
   image: prof_pic_cropped.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>6121-N, NAB</p>
+    <p>6120-N, NAB</p>
     <p>BITS Pilani</p>
     <p>Pilani, Rajasthan - 333031</p>
 
