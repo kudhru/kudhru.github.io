@@ -7,6 +7,22 @@ nav: true
 nav_order: 3
 ---
 
+#### **The Nature Conservancy Grant** [2024 - 2025]
+**Project Title:** AI for River-Climate Modeling
+**Funding Agency:** The Nature Conservancy  
+**Funding Amount:** <b class="super_emphasis">INR 25,00,000</b>  
+**Role:** Co-PI
+
+---
+
+#### **New Faculty Seed Grant** [2024 - 2025]
+**Project Title:** Building Generative AI Tools for Higher Education Institutes
+**Funding Agency:** BITS Pilani
+**Funding Amount:** <b class="super_emphasis">INR 20,00,000</b>  
+**Role:** PI
+
+---
+
 #### **IIE-WISE Qatar Foundation Grant** [2024 - 2025]
 **Project Title:** Impact of Generative AI on Higher Education in India
 **Funding Agency:** WISE x IIE Global Research Consortium  
